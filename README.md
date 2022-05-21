@@ -12,9 +12,9 @@
 <div align="center">
   <a href="https://github.com/felipemalli">
   <br>
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=felipemalli&count_private=true&show_icons=true&theme=nord" />
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=felipemalli&count_private=true&show_icons=true&theme=nord" />
   </a>
   <a href="https://github.com/felipemalli">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemalli&hide=css&langs_count=8&theme=nord&layout=compact" />
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemalli&hide=css&langs_count=8&theme=nord&layout=compact" />
   </a>
 </div>
