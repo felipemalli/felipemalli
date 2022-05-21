@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey, I'm Felipe Vahia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
-<!--
-**felipemalli/felipemalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects 🚀
 
-Here are some ideas to get you started:
+🎼: Music App - Soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me elsewhere 🌎
+
+[🚀: Site](https://felipemalli.github.io/) <br>
+[💼: LinkedIn](https://www.linkedin.com/in/felipe-vahia-malliagros/) <br>
+
+<div align="center">
+  <a href="https://github.com/felipemalli">
+  <br>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=felipemalli&count_private=true&show_icons=true&theme=nord" />
+  </a>
+  <a href="https://github.com/felipemalli">
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemalli&hide=css&langs_count=8&theme=nord&layout=compact" />
+  </a>
+</div>
