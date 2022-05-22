@@ -1,4 +1,4 @@
-# Hey, I'm Felipe Vahia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
+# Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
 ## Projects 🚀
 
