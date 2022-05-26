@@ -6,16 +6,17 @@ I studied exact half graduation of civil engeneering and decided to change my ca
 
 I'm currently studyng at Trybe and learning other technologies for my own. I will initiate computation science's graduation in august, where I pretend to build solid foundations to become a excellent professional in the future. 
 
-## Projects 🚀
+## 🚀 Projects
 
 🎼: Music App - Soon...
 
-## Find me elsewhere 🌎
+## 🌎 Find me elsewhere
 
-[🚀: Site](https://felipemalli.github.io/) <br>
-[💼: LinkedIn](https://www.linkedin.com/in/felipe-vahia-malliagros/) <br>
+[💼 LinkedIn](https://www.linkedin.com/in/felipe-vahia-malliagros/) <br>
+:mailbox: felipevahia@gmail.com <br>
+:telephone_receiver: +55 (21) 99189-8546
 
-## Hard Skills
+## :wrench: Hard Skills
 
 <div style="display: inline_block">
   <img align="center" alt="felipemalli-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
