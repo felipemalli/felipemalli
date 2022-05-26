@@ -10,7 +10,7 @@ I'm currently studyng at Trybe and learning other technologies for my own. I wil
 
 🎼 [Musicall](https://github.com/felipemalli/musicall/tree/main) - Work in progress...
 <br>
-🍳 Food App - Soon
+🍳 Food App - Soon...
 
 ## 🌎 Find me elsewhere
 
