@@ -1,4 +1,4 @@
-# Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
+# Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> !
 
 I'm Felipe, 22 years old and live in Rio de Janeiro, capital. 
 
