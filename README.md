@@ -6,12 +6,6 @@ I studied exact half graduation of civil engeneering and decided to change my ca
 
 I'm currently studyng at Trybe and learning other technologies for my own. I will start computation science's graduation in august, where I pretend to build solid foundations to become a excellent professional in the future. 
 
-## 🚀 Projects
-
-🎼 [Musicall](https://github.com/felipemalli/musicall/tree/main) - Work in progress...
-<br>
-🍳 Food App - Soon...
-
 ## 🌎 Find me elsewhere
 
 [💼 LinkedIn](https://www.linkedin.com/in/felipe-vahia-malliagros/) <br>
