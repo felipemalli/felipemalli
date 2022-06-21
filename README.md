@@ -31,7 +31,7 @@ I'm currently studyng at Trybe and learning other technologies for my own. I wil
   <img align="center" alt="felipemalli-Jest" height="30" width="100" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img align="center" alt="felipemalli-Sequelize" height="30" width="100" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
    <img align="center" alt="felipemalli-Sequelize" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-   <img align="center" alt="felipemalli-Sequelize" height="30" width="100" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"><br>
+   <img align="center" alt="felipemalli-Sequelize" height="30" width="100" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
    <img align="center" alt="felipemalli-MongoDB" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
 
 <div align="center">
