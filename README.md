@@ -4,7 +4,7 @@ I'm Felipe, 22 years old and live in Rio de Janeiro, capital.
 
 I studied exact half graduation of civil engeneering and decided to change my career. As I love logic and solving problems, I only appreciated math's related subjects, which was one of the things that made me realize that I was in the wrong profession.
 
-As much as I have knowledge of frontend, I'm a backend developer, so I'm currently studyng at Trybe and learning other technologies for my own. I will start computation science's graduation in august, where I pretend to build solid foundations to become a excellent professional in the future. 
+As much as I have knowledge of frontend, I intend to specialize in backend development, so I'm currently studyng at Trybe and learning other technologies for my own. I will start computation science's graduation in august, where I pretend to build solid foundations to become a excellent professional in the future. 
 
 ## 🌎 Find me elsewhere
 
