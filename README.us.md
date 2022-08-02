@@ -2,15 +2,15 @@
   ·
 <a href="/README.us.md">English</a>
 
-# Oi, eu sou o Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> !
+# Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> !
 
-Sou Felipe, 22 anos e moro no Rio de Janeiro, capital.
+I'm Felipe, 22 years old and live in Rio de Janeiro, capital. 
 
-Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de carreira. Como adoro lógica e resolução de problemas, só gostava as matérias relacionadas à matemática, o que foi uma das coisas que me fez perceber que estava na profissão errada.
+I studied exact half graduation of civil engeneering and decided to change my career. As I love logic and solving problems, I only appreciated math's related subjects, which was one of the things that made me realize that I was in the wrong profession.
 
-Por mais que eu tenha conhecimento de frontend, pretendo me especializar em desenvolvimento de backend, então atualmente estou estudando na Trybe e aprendendo outras tecnologias por conta própria. Iniciarei a graduação em ciência da computação em agosto, onde pretendo construir bases sólidas para me tornar um excelente profissional no futuro.
+As much as I have knowledge of frontend, I intend to specialize in backend development, so I'm currently studyng at Trybe and learning other technologies for my own. I will start computation science's graduation in august, where I pretend to build solid foundations to become a excellent professional in the future. 
 
-## 🌎 Me encontre por aí
+## 🌎 Find me elsewhere
 
 [💼 LinkedIn](https://www.linkedin.com/in/felipe-vahia-malliagros/) <br>
 :mailbox: felipevahia@gmail.com <br>
