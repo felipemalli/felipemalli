@@ -10,6 +10,8 @@ I studied exact half graduation of civil engeneering and decided to change my ca
 
 As much as I have knowledge of frontend, I intend to specialize in backend development, so I'm currently studyng at Trybe and learning other technologies for my own. I will start computation science's graduation in august, where I pretend to build solid foundations to become a excellent professional in the future. 
 
+I'm currently studyng Python, Java and improving my knowledge in React and Node.
+
 ## 🌎 Find me elsewhere
 
 [💼 LinkedIn](https://www.linkedin.com/in/felipe-vahia-malliagros/) <br>
