@@ -1,6 +1,6 @@
-<a href="/README.md">English</a>
+<a href="/README.us.md">English</a>
   ·
-<a href="/README.pt-BR.md">Português Brasileiro</a>
+<a href="/README.md">Português Brasileiro</a>
 
 # Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> !
 
