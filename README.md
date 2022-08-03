@@ -8,7 +8,7 @@ Sou o Felipe, 22 anos e moro no Rio de Janeiro, capital.
 
 Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de carreira. Como adoro lógica e resolução de problemas, só gostava as matérias relacionadas à matemática, o que foi uma das coisas que me fez perceber que estava na profissão errada.
 
-Por mais que eu tenha conhecimento de frontend, pretendo me especializar em backend, então atualmente estou estudando na Trybe e aprendendo outras tecnologias por conta própria. Iniciarei a graduação em ciência da computação em agosto, onde pretendo construir bases sólidas para me tornar um excelente profissional no futuro.
+Atualmente estou estudando na Trybe e aprendendo outras tecnologias por conta própria. Iniciarei a graduação em ciência da computação em agosto, onde pretendo construir bases sólidas para me tornar um excelente profissional no futuro.
 
 No momento estou estudando Python, Java e aprimorando meus conhecimentos em React e Node.
 
