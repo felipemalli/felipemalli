@@ -10,7 +10,7 @@ Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de 
 
 Atualmente estou estudando desenvolvimento Web Full Stack na Trybe e aprendendo outras tecnologias por conta própria. Iniciarei a graduação em ciência da computação em agosto, onde pretendo construir bases sólidas para me tornar um excelente profissional no futuro.
 
-Especificamente, no momento estou estudando Python na Trybe, Java em um bootcamp e microsserviços em cursos online.
+Especificamente, no momento estou estudando Python, Algoritmos e Estruturas de dados na Trybe, Stack de Java em um bootcamp e microsserviços em cursos online.
 
 ## 🌎 Me encontre por aí
 
