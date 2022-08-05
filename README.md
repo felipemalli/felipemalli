@@ -10,7 +10,7 @@ Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de 
 
 Atualmente estou estudando na Trybe e aprendendo outras tecnologias por conta própria. Iniciarei a graduação em ciência da computação em agosto, onde pretendo construir bases sólidas para me tornar um excelente profissional no futuro.
 
-No momento estou estudando Python, Java e aprimorando meus conhecimentos em React e Node.js.
+No momento estou estudando Python na Trybe, Java em um bootcamp e microsserviços por conta própria.
 
 ## 🌎 Me encontre por aí
 
