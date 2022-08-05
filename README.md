@@ -14,7 +14,7 @@ Especificamente, no momento estou estudando Python, Algoritmos e Estruturas de d
 
 Pretendo trabalhar como desenvolvedor Full-Stack, com foco maior em Back-End.
 
-## 🌎 Me encontre por aí
+## 🌎 Contato
 
 [💼 LinkedIn](https://www.linkedin.com/in/felipe-vahia-malliagros/) <br>
 :mailbox: felipevahia@gmail.com <br>
