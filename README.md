@@ -12,7 +12,7 @@ Atualmente estou estudando desenvolvimento Web Full Stack na Trybe e aprendendo 
 
 Especificamente, no momento estou estudando Python, Algoritmos e Estruturas de dados na Trybe, cursando um bootcamp de Java e aprendendo microsserviços por meio de cursos online. Além disso, estou trabalhando como Summer Jobber (estágio) na Trybe, que, por meio da metodologia Scrum, reviso e aprimoro conteúdos, exercícios, aulas, gabaritos e projetos do módulo de Front-End do curso. Esses conteúdos envolvem HTML, CSS, JavaScript (ES6), React (Context, Redux), testes automatizados com Jest e com a React Testing Library.
 
-Pretendo trabalhar como desenvolvedor Full-Stack, com foco maior em Back-End.
+Pretendo trabalhar como desenvolvedor Full-Stack, com foco maior em Back-End (mas também manterei os estudos no Front-End).
 
 ## 🌎 Contato
 
