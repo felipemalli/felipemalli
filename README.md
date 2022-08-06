@@ -6,7 +6,7 @@
 
 Me chamo Felipe Vahia Malliagros, tenho 22 anos e moro no Rio de Janeiro, capital.
 
-Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de carreira. Como adoro lógica e resolução de problemas, só gostava as matérias relacionadas à matemática, o que foi uma das coisas que me fez perceber que estava na profissão errada.
+Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de carreira. Como adoro lógica e resolução de problemas, só gostava das matérias relacionadas à matemática, o que foi uma das coisas que me fez perceber que estava na profissão errada.
 
 Atualmente estou estudando desenvolvimento Web Full Stack na Trybe e aprendendo outras tecnologias por conta própria. Iniciarei a graduação em ciência da computação em agosto, onde pretendo construir bases sólidas para me tornar um excelente profissional no futuro.
 
