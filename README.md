@@ -8,7 +8,7 @@ Me chamo Felipe Vahia Malliagros, tenho 22 anos e moro no Rio de Janeiro, capita
 
 Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de carreira. Como adoro lógica e resolução de problemas, só gostava das matérias relacionadas à matemática, o que foi uma das coisas que me fez perceber que estava na profissão errada.
 
-Atualmente estou estudando desenvolvimento Web Full Stack na Trybe e aprendendo outras tecnologias por conta própria. Iniciarei a graduação em ciência da computação em agosto, onde pretendo construir bases sólidas para me tornar um excelente profissional no futuro.
+Atualmente estou estudando desenvolvimento Web Full Stack na Trybe e cursando a graduação de ciência da computação na UFF, construindo bases sólidas para me tornar um profissional excelente profissional.
 
 Especificamente, no momento estou estudando Python, Algoritmos e Estruturas de dados na Trybe, cursando um bootcamp de Java e aprendendo cloud e microsserviços por meio de cursos online. Além disso, estou trabalhando como Summer Jobber (estágio) na Trybe, que, por meio da metodologia Scrum, reviso e aprimoro conteúdos, exercícios, aulas, gabaritos e projetos do módulo de Front-End do curso. Esses conteúdos envolvem HTML, CSS, JavaScript (ES6), React (Context, Redux), testes automatizados com Jest e com a React Testing Library.
 
