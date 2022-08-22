@@ -38,6 +38,7 @@ Especificamente, no momento estou estudando Python, Algoritmos e Estruturas de d
    <img align="center" alt="felipemalli-NestJS" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
    <img align="center" alt="felipemalli-Prisma" height="30" width="100" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
    <img align="center" alt="felipemalli-MongoDB" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
+   <img align="center" alt="felipemalli-MaterialUI" height="30" width="100" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"><br>
 
 <div align="center">
   <a href="https://github.com/felipemalli">
