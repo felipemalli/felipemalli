@@ -10,7 +10,7 @@ Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de 
 
 Estudei desenvolvimento Web Full Stack na Trybe e estou cursando a graduação de ciência da computação na UFF, construindo bases sólidas para me tornar um profissional cada vez mais capacitado.
 
-Especificamente, além da faculdade, no momento estou estudando Python, Algoritmos e Estruturas de dados na Trybe, cursando um bootcamp de Java e aprendendo cloud e microsserviços por meio de cursos online. Trabalhei como Summer Jobber (estágio) por 4 meses na Trybe até o início da graduação, pois os horários conflitavam. Nesse trabalho, por meio da metodologia Scrum, revisei e aprimorei conteúdos, exercícios, aulas, gabaritos e projetos do módulo de Front-End do curso. Esses conteúdos envolveram HTML, CSS, JavaScript (ES6), React (Context, Redux), testes automatizados com Jest e com a React Testing Library.
+Além da faculdade, estou cursando um bootcamp de Java e aprendendo cloud e microsserviços por meio de cursos online. Trabalhei como Summer Jobber (estágio) por 4 meses na Trybe até o início da graduação, pois os horários conflitavam. Nesse trabalho, por meio da metodologia Scrum, revisei e aprimorei conteúdos, exercícios, aulas, gabaritos e projetos do módulo de Front-End do curso. Esses conteúdos envolveram HTML, CSS, JavaScript (ES6), React (Context, Redux), testes automatizados com Jest e com a React Testing Library.
 
 ## 🌎 Contato
 
