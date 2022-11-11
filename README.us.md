@@ -4,13 +4,13 @@
 
 # Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> !
 
-I'm Felipe, 22 years old and live in Rio de Janeiro, capital. 
+I'm Felipe, 22 years old and live in Rio de Janeiro, capital. I'm a Back-End developer with Full-Stack knowledge. Despite the preference, I can also work with Front-End.
 
-I studied exact half graduation of civil engeneering and decided to change my career. As I love logic and solving problems, I only appreciated math's related subjects, which was one of the things that made me realize that I was in the wrong profession.
+I did exact half graduation of civil engeneering and decided to change my career. As I love logic and solving problems, I only appreciated math's related subjects, which was one of the things that made me realize that I was in the wrong profession.
 
-As much as I have knowledge of frontend, I intend to specialize in backend development, so I'm currently studyng at Trybe and learning other technologies for my own. I will start computation science's graduation in august, where I pretend to build solid foundations to become a excellent professional in the future. 
+I studied Full Stack Web development at Trybe and I'm currently studying computer science at Universidade Federal Fluminense (UFF), building solid foundations to become the most skilled professional possible.
 
-I'm currently studyng Python, Java and improving my knowledge in React and Node.
+In addition to college, I attended a Java bootcamp and I'm learning cloud and microservices through online courses. I worked as a Summer Jobber (internship) for 4 months at Trybe until the beginning of graduation, because the schedules conflicted. In this work, through the Scrum methodology, I reviewed and improved contents, exercises, classes, templates and projects of the Front-End module of the course. These contents involved HTML, CSS, JavaScript (ES6), React (Context, Redux), automated tests with Jest and the React Testing Library.
 
 ## 🌎 Find me elsewhere
 
