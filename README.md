@@ -6,7 +6,7 @@
 
 Me chamo Felipe Vahia Malliagros, tenho 22 anos e moro no Rio de Janeiro, capital. Sou desenvolvedor Back-End com conhecimento Full-Stack. Apesar da preferência, também posso atuar com Front-End.
 
-Estudei exatamente metade da graduação em engenharia civil e resolvi mudar de carreira. Como adoro lógica e resolução de problemas, só gostava das matérias relacionadas à matemática, o que foi uma das coisas que me fez perceber que estava na profissão errada.
+Cursei exatamente metade da graduação em engenharia civil e resolvi mudar de carreira. Como adoro lógica e resolução de problemas, só gostava das matérias relacionadas à matemática, o que foi uma das coisas que me fez perceber que estava na profissão errada.
 
 Estudei desenvolvimento Web Full Stack na Trybe e estou cursando a graduação de ciência da computação na UFF, construindo bases sólidas para me tornar um profissional cada vez mais capacitado.
 
