@@ -10,7 +10,7 @@ Cursei exatamente metade da graduação em engenharia civil e resolvi mudar de c
 
 Estudei desenvolvimento Web Full Stack na Trybe e estou cursando a graduação de ciência da computação na UFF, construindo bases sólidas para me tornar um profissional cada vez mais capacitado.
 
-Além da faculdade, cursei um bootcamp de Java e estou aprendendo cloud (AWS, mais especificamente) e microsserviços por meio de cursos online. Trabalhei como Summer Jobber (estágio) por 4 meses na Trybe até o início da graduação, pois os horários conflitavam. Nesse trabalho, por meio da metodologia Scrum, revisei e aprimorei conteúdos, exercícios, aulas, gabaritos e projetos do módulo de Front-End do curso. Esses conteúdos envolveram HTML, CSS, JavaScript (ES6), React (Context, Redux), testes automatizados com Jest e com a React Testing Library.
+Além da faculdade, cursei um bootcamp de Java e estou aprendendo cloud e microsserviços por meio de cursos online. Trabalhei como Summer Jobber (estágio) por 4 meses na Trybe até o início da graduação, pois os horários conflitavam. Nesse trabalho, por meio da metodologia Scrum, revisei e aprimorei conteúdos, exercícios, aulas, gabaritos e projetos do módulo de Front-End do curso. Esses conteúdos envolveram HTML, CSS, JavaScript (ES6), React (Context, Redux), testes automatizados com Jest e com a React Testing Library.
 
 ## 🌎 Contato
 
@@ -41,7 +41,11 @@ Além da faculdade, cursei um bootcamp de Java e estou aprendendo cloud (AWS, ma
    <img align="center" alt="felipemalli-MongoDB" height="30" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="felipemalli-Python" height="30" width="80" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img align="center" alt="felipemalli-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  
+    <img align="center" alt="felipemalli-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="felipemalli-Quarkus" height="30" width="80" src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus">
+    <img align="center" alt="felipemalli-Hibernate" height="30" width="80" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+    <img align="center" alt="felipemalli-JUnit" height="30" width="80" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+
 <br>
 
 <div align="center">
