@@ -4,7 +4,7 @@
 
 # Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> !
 
-I'm Felipe, 22 years old and live in Rio de Janeiro, capital. I'm a Back-End developer with Full-Stack knowledge. Despite the preference, I can also work with Front-End.
+I'm Felipe, 22 years old and live in Rio de Janeiro, capital. I'm a Back-End developer with Full-Stack knowledge. Despite the preference, I can and like to work with Front-End.
 
 I did exact half graduation of civil engeneering and decided to change my career. As I love logic and solving problems, I only appreciated math's related subjects, which was one of the things that made me realize that I was in the wrong profession.
 
