@@ -4,7 +4,7 @@
 
 # Oii, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-Me chamo Felipe Vahia Malliagros, tenho 22 anos e moro no Rio de Janeiro, capital. Sou desenvolvedor Back-End com conhecimento Full-Stack. Apesar da preferência, também posso atuar com Front-End.
+Me chamo Felipe Vahia Malliagros, tenho 22 anos e moro no Rio de Janeiro, capital. Sou desenvolvedor Back-End com conhecimento Full-Stack. Apesar da preferência, também posso e gosto de atuar com Front-End.
 
 Cursei exatamente metade da graduação em engenharia civil e resolvi mudar de carreira. Como adoro lógica e resolução de problemas, só gostava das matérias relacionadas à matemática, o que foi uma das coisas que me fez perceber que estava na profissão errada.
 
