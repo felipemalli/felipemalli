@@ -4,13 +4,7 @@
 
 # Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> !
 
-I'm Felipe, 22 years old and live in Rio de Janeiro, capital. I'm a Back-End developer with Full-Stack knowledge. Despite the preference, I can and like to work with Front-End.
-
-I did exact half graduation of civil engeneering and decided to change my career. As I love logic and solving problems, I only appreciated math's related subjects, which was one of the things that made me realize that I was in the wrong profession.
-
-I studied Full Stack Web development at Trybe and I'm currently studying computer science at UFF (Fluminense Federal University), building solid foundations to become the most skilled professional possible.
-
-In addition to college, I attended a Java bootcamp and I'm learning cloud and microservices through online courses. I worked as a Summer Jobber (internship) for 4 months at Trybe until the beginning of graduation, because the schedules conflicted. In this work, through the Scrum methodology, I reviewed and improved contents, exercises, classes, templates and projects of the Front-End module of the course. These contents involved HTML, CSS, JavaScript (ES6), React (Context, Redux), automated tests with Jest and the React Testing Library.
+Confira meu <a href="https://felipemalli.com/">portfólio<a /> para me conhecer melhor!
 
 ## 🌎 Find me elsewhere
 
