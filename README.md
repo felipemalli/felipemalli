@@ -4,7 +4,7 @@
 
 # Oii, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-Confira meu <a href="https://felipemalli.com/" target="_blank">portfólio<a/> para me conhecer melhor!
+Confira meu <a href="https://felipemalli.com/">portfólio<a/> para me conhecer melhor!
 
 <br>
 
