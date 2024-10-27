@@ -4,7 +4,7 @@
 
 # Hey, I'm Felipe Vahia Malliagros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> !
 
-Please check out my <a href="https://felipemalli.com/">portfolio<a /> to learn more about me!
+Please check out my <a href="https://felipemalliagros.com/">portfolio<a /> to learn more about me!
 
 <br>
 
